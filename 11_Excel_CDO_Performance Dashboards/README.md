@@ -1,7 +1,8 @@
 # eCommerce Fashion Dashboards
 
 ## CDO
-![11_Power BI_CDO  Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/fe5b3e65-4888-4bc9-a507-2b2b23ce231c)
+![11_Excel_CDO Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/828ef7b6-14ab-4ea3-89b0-41ec5566f251)
+
 
 
 
