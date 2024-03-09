@@ -1,7 +1,8 @@
 # eCommerce Fashion Dashboards
 
 ## COO
-![3_Power BI_ COO _Performance Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/89ba035d-a676-4333-a77e-b835743ede68)
+![3_Excel_COO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/2e0437f5-6722-40de-b51e-ba935a22fbee)
+
 
 
 
