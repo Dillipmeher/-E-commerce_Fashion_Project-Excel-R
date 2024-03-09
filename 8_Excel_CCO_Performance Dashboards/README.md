@@ -1,7 +1,8 @@
 # eCommerce Fashion Dashboards
 
 ## CCO
-![CCO-Dashboard R](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/c4ba0bee-105e-4be0-8ebc-fb18de68c1a8)
+![8_Excel_CCO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/8a1bef14-05eb-4b16-8347-1c35891364a6)
+
 
 
 ### 6 Thinking Hats :
