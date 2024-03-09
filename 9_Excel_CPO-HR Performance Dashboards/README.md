@@ -1,7 +1,8 @@
 # eCommerce Fashion Dashboards
 
 ## CPO-HR
-![9_Power BI_CPO-HR Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/3f30ee5b-1135-42f8-8b4b-fac27ccfe2b3)
+![9_Excel_CPO_HR Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/fb746a2e-c3f7-45cb-be87-884d2904fab8)
+
 
 
 
