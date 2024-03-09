@@ -86,26 +86,35 @@ Difference between OKR and KPI
 
 # CEO Performance Dashboard
 
-![CEO_Score Card_Power BI](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/ae55becc-b21b-47d2-9cf1-057ff061f67b)
+
+![1_Excel_CEO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/fd899ed2-1cc1-475e-b7d8-f6d2d7ffe9ef)
+
 
 
 
 
 # CFO Performance Dashboard
 
-![CFO-Score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/6df34e55-b24b-4b7f-a65f-488a2ec7674b)
+
+![2_Excel_CFO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/3580242e-21d4-4e48-8c35-c36e513f7c46)
+
 
 
 
 
 # COO Performance Dashboard
 
-![COO_score Card](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/d1973407-aab2-4844-a169-e9a08d79a630)
+
+![3_Excel_COO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/31bdb5f4-fc6b-4940-b46d-4666bc16c2a8)
+
+
 
 
 # CMO Performance Dashboard
 
-![CMO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/9fc78024-060d-456c-848f-970ad6668bc6)
+
+![4_Excel_CMO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/477a765e-8e88-4523-afd1-2fa9eb960e15)
+
 
 
 
@@ -113,14 +122,19 @@ Difference between OKR and KPI
 
 # CTO Performance Dashboard
 
-![CTO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/861ada4e-331a-4e9c-9881-7e80870c4aee)
+
+![5_Excel_CTO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/cd1f9758-ea77-4dc9-8d51-d2654173070d)
+
+
 
 
 
 
 # CSO Performance Dashboard
 
-![CSO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/3a024f86-b8f7-4e76-b46d-432edb40ed69)
+
+![6_Excel_CSO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/1aef1ec8-3d78-48a0-bd08-17cca60f1dbb)
+
 
 
 
@@ -128,7 +142,9 @@ Difference between OKR and KPI
 
 # CPO Performance Dashboard
 
-![CPO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/66f0ffd3-bb64-4b91-8926-fc6c639950d4)
+
+![7_Excel_CPO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/2799f338-223e-4861-b29a-f068a48705c0)
+
 
 
 
@@ -136,7 +152,9 @@ Difference between OKR and KPI
 
 # CCO Performance Dashboard
 
-![CCO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/5a3be883-b5db-4e1b-aafb-ab4bc3895ad8)
+
+![8_Excel_CCO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/05b4c27d-680f-4e9e-836b-e8278c1c0a64)
+
 
 
 
@@ -144,7 +162,9 @@ Difference between OKR and KPI
 
 # CPO-HR Performance Dashboard
 
-![CPO-HR Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/923259b1-3339-46a2-a36c-b3d9ab74cb7d)
+
+![9_Excel_CPO_HR Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/d9fa9707-6204-4e0b-b3c7-cbd96874acc1)
+
 
 
 
@@ -152,7 +172,9 @@ Difference between OKR and KPI
 
 # CSO- Sustainability Performance Dashboard
 
-![CSO-Sustainablility Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/2ce1b2e2-8db7-45bc-b62e-e53a3a7ef79f)
+
+![10_Excel_CSO_Sustainability Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/e4deeef4-8684-4830-8210-2dbb776effd9)
+
 
 
 
@@ -162,12 +184,13 @@ Difference between OKR and KPI
 
 # CDO Performance Dashboard
 
-![CDO_Scorecard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/dae138d0-0299-4340-86ce-e319fd350f51)
+
+![11_Excel_CDO Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/48766a2c-baec-4cae-af9b-a9ffb611f08a)
 
 
 
-# Score Card
-https://docs.google.com/spreadsheets/d/1O1k4kcm_hrufnQvMy2AVVI0Ybdz_pEFvGcpT4rEbfjs/edit#gid=73245975
+
+
 
 
 
