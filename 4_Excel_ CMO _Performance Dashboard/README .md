@@ -1,7 +1,8 @@
 # eCommerce Fashion Dashboards
 
 ## CMO
-![4_Power BI_ CMO _Performance Dashboard](https://github.com/Dillipmeher/E-commerce_Fashion_Project-PowerBI/assets/143451788/9cab0920-bcff-4cf9-bedc-73123ccea3ba)
+![4_Excel_CMO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/4ca2ea33-aa7c-48cb-b8aa-4d0c2d6a98ce)
+
 
 
 
