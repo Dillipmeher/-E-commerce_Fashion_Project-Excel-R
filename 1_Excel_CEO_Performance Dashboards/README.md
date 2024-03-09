@@ -1,7 +1,8 @@
 # eCommerce Fashion Dashboards
 
 ## CEO
-![image](https://github.com/Dillipmeher/Project/assets/143451788/69c99b28-9c3f-41d4-b5c6-50cd8f0dc399)
+![1_Excel_CEO_Performance Dashboards](https://github.com/Dillipmeher/E-commerce_Fashion_Project-Excel-R/assets/143451788/4fb30a3f-586a-4cb4-9cf0-d6d6b50aa2bf)
+
 
 
 ### 6 Thinking Hats
